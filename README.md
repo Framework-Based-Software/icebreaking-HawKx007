@@ -7,8 +7,9 @@ It is very important to understand the artictecture of a software to ensure stru
 Overall, this whole experince should prepare me mentally and technically to face challanges related to software developments head-on.
 
 ##Task_
-Uploaded Image Link > (https://github.com/Framework-Based-Software/icebreaking-HawKx007/blob/T1_hawkx007_upload/RHS05145-Enhanced-NR.jpg)
+Uploaded Image Link --> (https://github.com/Framework-Based-Software/icebreaking-HawKx007/blob/T1_hawkx007_upload/RHS05145-Enhanced-NR.jpg)
+new_repo_WOC7014 -->(https://github.com/HawKx007/HawKx007_WOC7014)
 
 ### GitHub Profile
-lANDING_PAGE_HawKx007--> (https://github.com/HawKx007)
+lANDING_PAGE_HawKx007 --> (https://github.com/HawKx007)
 
